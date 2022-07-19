@@ -55,7 +55,7 @@ section{
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background: url(images/background.jpeg) no-repeat;
+    background: url(background.jpeg) no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -169,7 +169,7 @@ section{
             /*section-projects*/
 
 .projects {
-    background: url(images/background2.jpeg) no-repeat;
+    background: url(background2.jpeg) no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
